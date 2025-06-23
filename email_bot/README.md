@@ -8,8 +8,9 @@ Automatize o envio de e-mails personalizados com Python e planilhas Excel. Ideal
 
 - 📊 Leitura de planilha com dados dos clientes  
 - ✉️ Criação de mensagens personalizadas com nome, valor e vencimento  
-- 📬 Envio de e-mails automáticos  
-- 🧩 Código comentado e pronto para adaptar  
+- 📬 Envio de e-mails automáticos via Gmail com autenticação segura  
+- 🔒 Armazenamento protegido de credenciais com arquivo `.env`  
+- 🧩 Código organizado, comentado e fácil de adaptar a outros contextos  
 
 ## Requisitos
 
@@ -19,7 +20,8 @@ Automatize o envio de e-mails personalizados com Python e planilhas Excel. Ideal
 ## Como usar
 
 1. Crie um arquivo `.env` com seu e-mail e a senha de aplicativo do Gmail  
-2. Execute o script `email_bot.py`  
+2. Preencha a planilha `clientes.xlsx` com os dados dos destinatários  
+3. Execute o script `email_bot.py`  
 
 ## Exemplo da planilha `clientes.xlsx`:
 
@@ -31,15 +33,15 @@ Automatize o envio de e-mails personalizados com Python e planilhas Excel. Ideal
 
 ## Segurança com `.env`
 
-Este projeto usa um arquivo `.env` para armazenar dados sensíveis.  
-O arquivo está protegido via `.gitignore` e não será enviado ao GitHub.
+Este projeto usa um arquivo `.env` para armazenar dados sensíveis, como e-mail e senha de aplicativo.  
+O arquivo está incluído no `.gitignore`, portanto **não será enviado ao GitHub** por segurança.
 
 ### Exemplo de `.env`
 
 ```env
 EMAIL_REMETENTE=seuemail@gmail.com
 SENHA_DO_APP=sua_senha_de_aplicativo
-``` 
+```
 
 ## Licença
 
