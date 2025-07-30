@@ -27,7 +27,7 @@ Automatize o envio de e-mails personalizados usando Python e planilhas Excel. Id
 
 1. Crie um arquivo `.env` com seu e-mail e a senha de aplicativo do Gmail  
 2. Preencha a planilha `clientes.xlsx` com os dados dos destinatários  
-3. Execute o script `email_bot.py` para enviar os e-mails  
+3. Rode o script email_bot.py e pronto! Os e-mails serão enviados automaticamente. 
 
 ---
 
@@ -54,6 +54,8 @@ Esse arquivo está no `.gitignore` e **não será enviado ao GitHub** por segura
 EMAIL_REMETENTE=seuemail@gmail.com
 SENHA_DO_APP=sua_senha_de_aplicativo
 ```
+⚠️ Nunca compartilhe ou faça upload do seu `.env`. Ele contém informações sensíveis!
+
 ---
 
 ## Licença
