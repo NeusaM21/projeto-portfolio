@@ -46,17 +46,23 @@ Automatize o envio de e-mails personalizados usando Python e planilhas Excel. Id
 Este projeto usa um arquivo `.env` para armazenar dados sensíveis (como seu e-mail e senha de app).  
 Esse arquivo está no `.gitignore` e **não será enviado ao GitHub** por segurança.
 
+---
+
 ### Exemplo de `.env`:
 
 ```env
 EMAIL_REMETENTE=seuemail@gmail.com
 SENHA_DO_APP=sua_senha_de_aplicativo
 ```
+---
 
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais informações.
 
+---
+
+## 👩‍💻 Autora
 
 Feito com 💙 por [NeusaM21](https://github.com/NeusaM21)
 
