@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+
 ![Capa do Projeto](capa_nova.png)
 
 # 📧 Bot de E-mails Automáticos com Python
@@ -10,7 +15,7 @@ Automatize o envio de e-mails personalizados usando Python e planilhas Excel. Id
 
 - 📊 Leitura automática de planilha com dados dos destinatários  
 - ✍️ Geração de mensagens personalizadas com nome, valor e vencimento  
-- 📬 Envio de e-mails automáticos via Gmail com autenticação segura  
+- 📬 Envio automático via Gmail com autenticação segura  
 - 🔐 Armazenamento seguro de credenciais usando `.env`  
 - 🧩 Código limpo, comentado e fácil de adaptar a novos cenários  
 
@@ -54,7 +59,9 @@ Esse arquivo está no `.gitignore` e **não será enviado ao GitHub** por segura
 EMAIL_REMETENTE=seuemail@gmail.com
 SENHA_DO_APP=sua_senha_de_aplicativo
 ```
-⚠️ Nunca compartilhe ou faça upload do seu `.env`. Ele contém informações sensíveis!
+---
+
+⚠️ *Nunca compartilhe ou faça upload do seu `.env`. Ele contém informações sensíveis!*
 
 ---
 
