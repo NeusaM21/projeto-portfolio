@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Formulário de Leads</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #f5f7fa;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      height: 100vh;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .container {
+      background-color: #ffffff;
+      padding: 2rem;
+      border-radius: 10px;
+      box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+      width: 100%;
+      max-width: 400px;
+    }
+
+    h2 {
+      text-align: center;
+      color: #1d3557;
+      margin-bottom: 1.5rem;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 0.5rem;
+      color: #333;
+      font-weight: bold;
+    }
+
+    input[type="text"] {
+      width: 100%;
+      padding: 0.7rem;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      margin-bottom: 1rem;
+      font-size: 1rem;
+    }
+
+    button {
+      width: 100%;
+      padding: 0.75rem;
+      background-color: #2a9d8f;
+      border: none;
+      color: white;
+      font-size: 1rem;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: 0.3s ease;
+    }
+
+    button:hover {
+      background-color: #21867a;
+    }
+
+    .whatsapp-button {
+      margin-top: 1rem;
+      text-align: center;
+    }
+
+    .whatsapp-button a {
+      display: inline-block;
+      padding: 0.6rem 1rem;
+      background-color: #25D366;
+      color: white;
+      border-radius: 5px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>Solicite um Orçamento</h2>
+    <form id="leadForm">
+      <label for="nome">Nome:</label>
+      <input type="text" id="nome" name="nome" required />
+
+      <label for="telefone">Telefone:</label>
+      <input type="text" id="telefone" name="telefone" required />
+
+      <label for="servico">Serviço:</label>
+      <input type="text" id="servico" name="servico" required />
+
+      <button type="submit">Enviar</button>
+    </form>
+
+    <div class="whatsapp-button" id="whatsappLink" style="display: none;">
+      <a href="#" target="_blank" id="openWhatsApp">Abrir WhatsApp</a>
+    </div>
+  </div>
+
+  <script>
+    document.getElementById("leadForm").addEventListener("submit", function (e) {
+      e.preventDefault();
+
+      const nome = document.getElementById("nome").value;
+      const telefone = document.getElementById("telefone").value;
+      const servico = document.getElementById("servico").value;
+
+      fetch("https://hook.us2.make.com/lnfitddhqln99xib18kk7ooioqou7gfc", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ nome, telefone, servico }),
+      })
+        .then((res) => {
+          if (res.ok) {
+            const msg = `Olá, me chamo ${nome} e estou interessado no serviço: ${servico}`;
+            const whatsappURL = `https://api.whatsapp.com/send?phone=55${telefone}&text=${encodeURIComponent(msg)}`;
+
+            document.getElementById("openWhatsApp").href = whatsappURL;
+            document.getElementById("whatsappLink").style.display = "block";
+            alert("Dados enviados com sucesso!");
+          } else {
+            alert("Erro ao enviar dados.");
+          }
+        })
+        .catch(() => {
+          alert("Erro ao enviar dados.");
+        });
+    });
+  </script>
+</body>
+</html>
