@@ -1,29 +1,37 @@
 ![Capa do Projeto](capa_nova.png)
 
-# Bot de E-mails Automáticos com Python
+# 📧 Bot de E-mails Automáticos com Python
 
-Automatize o envio de e-mails personalizados com Python e planilhas Excel. Ideal para cobranças, notificações e lembretes de forma automatizada.
+Automatize o envio de e-mails personalizados usando Python e planilhas Excel. Ideal para cobranças, notificações, lembretes e mensagens recorrentes — tudo de forma rápida, segura e personalizável.
 
-## Funcionalidades
+---
 
-- 📊 Leitura de planilha com dados dos clientes  
-- ✉️ Criação de mensagens personalizadas com nome, valor e vencimento  
+## 🚀 Funcionalidades
+
+- 📊 Leitura automática de planilha com dados dos destinatários  
+- ✍️ Geração de mensagens personalizadas com nome, valor e vencimento  
 - 📬 Envio de e-mails automáticos via Gmail com autenticação segura  
-- 🔒 Armazenamento protegido de credenciais com arquivo `.env`  
-- 🧩 Código organizado, comentado e fácil de adaptar a outros contextos  
+- 🔐 Armazenamento seguro de credenciais usando `.env`  
+- 🧩 Código limpo, comentado e fácil de adaptar a novos cenários  
 
-## Requisitos
+---
+
+## 🛠️ Requisitos
 
 - Python 3.x  
-- Bibliotecas: `pandas`, `openpyxl`, `schedule`, `smtplib`, `email`  
+- Bibliotecas: `pandas`, `openpyxl`, `schedule`, `smtplib`, `email`
 
-## Como usar
+---
+
+## ⚙️ Como usar
 
 1. Crie um arquivo `.env` com seu e-mail e a senha de aplicativo do Gmail  
 2. Preencha a planilha `clientes.xlsx` com os dados dos destinatários  
-3. Execute o script `email_bot.py`  
+3. Execute o script `email_bot.py` para enviar os e-mails  
 
-## Exemplo da planilha `clientes.xlsx`:
+---
+
+## 🧾 Exemplo da planilha `clientes.xlsx`:
 
 | Nome  | Email           | Valor | Vencimento  |
 |-------|------------------|--------|--------------|
@@ -31,12 +39,14 @@ Automatize o envio de e-mails personalizados com Python e planilhas Excel. Ideal
 | Maria | maria@email.com  | 200.0  | 03/07/2025   |
 | Pedro | pedro@email.com  | 300.0  | 05/07/2025   |
 
-## Segurança com `.env`
+---
 
-Este projeto usa um arquivo `.env` para armazenar dados sensíveis, como e-mail e senha de aplicativo.  
-O arquivo está incluído no `.gitignore`, portanto **não será enviado ao GitHub** por segurança.
+## 🔒 Segurança com `.env`
 
-### Exemplo de `.env`
+Este projeto usa um arquivo `.env` para armazenar dados sensíveis (como seu e-mail e senha de app).  
+Esse arquivo está no `.gitignore` e **não será enviado ao GitHub** por segurança.
+
+### Exemplo de `.env`:
 
 ```env
 EMAIL_REMETENTE=seuemail@gmail.com
