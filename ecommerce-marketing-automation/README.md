@@ -6,9 +6,7 @@
 ![Tecnologias Principais](https://img.shields.io/badge/Tech-Python%2C%20Klaviyo%2C%20Shopify%20(Conceitual)-blue)
 ![Licença MIT](https://img.shields.io/badge/License-MIT-green)
 
-<p align="center">
-  <img src="./capa.png" alt="Capa do Projeto Ecommerce Marketing Automation" width="100%">
-</p>
+![Capa do Projeto](capa.png)
 
 ---
 
