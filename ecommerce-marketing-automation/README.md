@@ -7,7 +7,7 @@
 ![Licença MIT](https://img.shields.io/badge/License-MIT-green)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MrsM21/projeto-portfolio/main/ecommerce-marketing-automation/capa.png" alt="Capa do Projeto" width="100%">
+  <img src="./capa.png" alt="Capa do Projeto Ecommerce Marketing Automation" width="100%">
 </p>
 
 ---
