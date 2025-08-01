@@ -6,6 +6,10 @@
 ![Tecnologias Principais](https://img.shields.io/badge/Tech-Python%2C%20Klaviyo%2C%20Shopify%20(Conceitual)-blue)
 ![Licença MIT](https://img.shields.io/badge/License-MIT-green)
 
+![Capa do Projeto](capa.png)
+
+---
+
 ## 🧭 Navegação Rápida
 
 - [📝 Visão Geral do Projeto](#-visão-geral-do-projeto)
