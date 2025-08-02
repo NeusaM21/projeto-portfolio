@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Developer-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB"/>
+  <img src="https://img.shields.io/badge/Automation-Specialist-orange?style=for-the-badge&logo=gear&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-Projects-4B8BBE?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/No--Code-Integrations-brightgreen?style=for-the-badge&logo=zapier&logoColor=white"/>
+</p>
+
 # 🗂️ Portfólio de Projetos — NeusaM21
 
 🚀 Bem-vindo(a) ao meu portfólio!  
