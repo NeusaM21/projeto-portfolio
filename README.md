@@ -5,22 +5,38 @@ Aqui você encontra soluções de **automação, inteligência artificial e inte
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🏆 Projetos em Destaque
 
-<p align="center">
-  <a href="https://github.com/NeusaM21/ecommerce-marketing-automation">
-    <img src="./ecommerce-marketing-automation/assets/screenshots/fluxo_automacao_ecommerce.png" alt="E-commerce Automation" width="300px" style="margin: 10px;">
-  </a>
-  <a href="https://github.com/NeusaM21/pdf-insight-bot">
-    <img src="./pdf-insight-bot/assets/pdf-insight-bot-terminal.gif" alt="PDF Insight Bot" width="300px" style="margin: 10px;">
-  </a>
-  <a href="https://github.com/NeusaM21/email_bot">
-    <img src="./email_bot/capa_nova.png" alt="Email Bot" width="300px" style="margin: 10px;">
-  </a>
-  <a href="https://github.com/NeusaM21/smart-integration-leads">
-    <img src="./smart-integration-leads/assets/banner-pt.png" alt="Smart Integration" width="300px" style="margin: 10px;">
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/NeusaM21/ecommerce-marketing-automation-project">
+        <img src="assets/capa-ecommerce.png" width="250px"/><br/>
+        <strong>E-commerce Automation</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/NeusaM21/email_bot">
+        <img src="assets/capa-email-bot.png" width="250px"/><br/>
+        <strong>Email Bot</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/NeusaM21/pdf-insight-bot">
+        <img src="assets/capa-pdf-insight-bot.png" width="250px"/><br/>
+        <strong>PDF Insight Bot</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/NeusaM21/smart-integration-leads">
+        <img src="assets/capa-smart-integration.png" width="250px"/><br/>
+        <strong>Smart Integration Leads</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
