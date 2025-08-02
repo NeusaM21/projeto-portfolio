@@ -5,17 +5,12 @@
   <img src="https://img.shields.io/badge/No--Code-Integrations-brightgreen?style=for-the-badge&logo=zapier&logoColor=white"/>
 </p>
 
-<h1 align="center">🗂️ Portfólio de Projetos — <span style="color:#4B8BBE;">NeusaM21</span></h1>
+<h1 align="center">🗂️ Portfólio de Projetos — NeusaM21</h1>
 
 <p align="center">
   Soluções inteligentes em <strong>Automação, Inteligência Artificial e Integrações No-Code</strong><br/>
   Projetos práticos que otimizam processos e entregam valor real para negócios.
 </p>
-
-# 🗂️ Portfólio de Projetos — NeusaM21
-
-🚀 Bem-vindo(a) ao meu portfólio!  
-Aqui você encontra soluções de **automação, inteligência artificial e integrações no-code** aplicadas em projetos reais.
 
 ---
 
@@ -61,8 +56,7 @@ Aqui você encontra soluções de **automação, inteligência artificial e inte
 
 ---
 
-## 📬 Contato
-💼 [LinkedIn](https://www.linkedin.com/in/SeuPerfilLinkedIn)  
+## 📬 Contato 
 📧 E-mail profissional: [Enviar e-mail](mailto:contact.neusam21@gmail.com)  
 🤝 Disponível para freelas e colaborações!
 
