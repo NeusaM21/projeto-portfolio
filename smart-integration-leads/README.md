@@ -125,8 +125,9 @@ smart-integration-leads/
 
 ## Fale Comigo
 
-📧 E-mail: [contact.neusam21@gmail.com](mailto:contact.neusam21@gmail.com)
-💼 Aberta a colaborações e freelas
+## 📬 Fale Comigo
+📧 [contact.neusam21@gmail.com](mailto:contact.neusam21@gmail.com)  
+💼 Aberta a colaborações e freelas!
 
 ---
 

@@ -122,9 +122,8 @@ smart-integration-leads/
 
 ---
 
-## Contact Me
-
-📧 E-mail: [contact.neusam21@gmail.com](mailto:contact.neusam21@gmail.com) 
-💼 Open for freelance work and collaborations
+## 📬 Contact Me
+📧 [contact.neusam21@gmail.com](mailto:contact.neusam21@gmail.com)  
+💼 Open for freelance work and collaborations  
 
 Let’s automate the world! 😎💻🚀
