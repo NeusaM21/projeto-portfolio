@@ -1,8 +1,15 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Developer-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB"/>
+  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Automation-Specialist-orange?style=for-the-badge&logo=gear&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-Projects-4B8BBE?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/No--Code-Integrations-brightgreen?style=for-the-badge&logo=zapier&logoColor=white"/>
+</p>
+
+<h1 align="center">🗂️ Portfólio de Projetos — <span style="color:#4B8BBE;">NeusaM21</span></h1>
+
+<p align="center">
+  Soluções inteligentes em <strong>Automação, Inteligência Artificial e Integrações No-Code</strong><br/>
+  Projetos práticos que otimizam processos e entregam valor real para negócios.
 </p>
 
 # 🗂️ Portfólio de Projetos — NeusaM21
