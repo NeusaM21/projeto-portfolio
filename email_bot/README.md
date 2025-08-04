@@ -41,6 +41,7 @@ Ideal para cobranças, notificações, lembretes e mensagens recorrentes — tud
    cd email_bot
    ```
 
+
 ---
 
 ## 🧾 Exemplo da planilha `clientes.xlsx`:
@@ -84,10 +85,12 @@ Feito com 💙 por [NeusaM21](https://github.com/NeusaM21)
 
 ---
 
-📬 Fale Comigo
+## 📬 Fale Comigo
+
 Quer trocar uma ideia ou precisa de uma automação personalizada?
-📧 E-mail: [contact.neusam21@gmail.com](mailto:contact.neusam21@gmail.com)
-🌐 GitHub: github.com/NeusaM21
+
+📧 E-mail: [contact.neusam21@gmail.com](mailto:contact.neusam21@gmail.com)  
+🌐 GitHub: [github.com/NeusaM21](https://github.com/NeusaM21)
 
 ---
 
