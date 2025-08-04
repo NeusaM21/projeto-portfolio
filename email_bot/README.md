@@ -7,7 +7,8 @@
 
 # 📧 Bot de E-mails Automáticos com Python
 
-Automatize o envio de e-mails personalizados usando Python e planilhas Excel. Ideal para cobranças, notificações, lembretes e mensagens recorrentes — tudo de forma rápida, segura e personalizável.
+Automatize o envio de e-mails personalizados usando Python e planilhas Excel.  
+Ideal para cobranças, notificações, lembretes e mensagens recorrentes — tudo de forma rápida, segura e personalizável.
 
 ---
 
@@ -24,15 +25,21 @@ Automatize o envio de e-mails personalizados usando Python e planilhas Excel. Id
 ## 🛠️ Requisitos
 
 - Python 3.x  
-- Bibliotecas: `pandas`, `openpyxl`, `schedule`, `smtplib`, `email`
+- Bibliotecas Python:  
+  - `pandas`  
+  - `openpyxl`  
+  - `schedule`  
+  - `python-dotenv`
 
 ---
 
-## ⚙️ Como usar
+## ⚙️ Como Usar
 
-1. Crie um arquivo `.env` com seu e-mail e a senha de aplicativo do Gmail  
-2. Preencha a planilha `clientes.xlsx` com os dados dos destinatários  
-3. Rode o script email_bot.py e pronto! Os e-mails serão enviados automaticamente. 
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/NeusaM21/email_bot.git
+   cd email_bot
+   ```
 
 ---
 
@@ -74,5 +81,12 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 ## 👩‍💻 Autora
 
 Feito com 💙 por [NeusaM21](https://github.com/NeusaM21)
+
+---
+
+📬 Fale Comigo
+Quer trocar uma ideia ou precisa de uma automação personalizada?
+📧 E-mail: [contact.neusam21@gmail.com](mailto:contact.neusam21@gmail.com)
+🌐 GitHub: github.com/NeusaM21
 
 
