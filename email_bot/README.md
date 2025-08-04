@@ -66,7 +66,7 @@ Esse arquivo está no `.gitignore` e **não será enviado ao GitHub** por segura
 EMAIL_REMETENTE=seuemail@gmail.com
 SENHA_DO_APP=sua_senha_de_aplicativo
 ```
----
+
 
 ⚠️ *Nunca compartilhe ou faça upload do seu `.env`. Ele contém informações sensíveis!*
 
