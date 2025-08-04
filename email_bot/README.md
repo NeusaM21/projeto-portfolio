@@ -89,4 +89,6 @@ Quer trocar uma ideia ou precisa de uma automação personalizada?
 📧 E-mail: [contact.neusam21@gmail.com](mailto:contact.neusam21@gmail.com)
 🌐 GitHub: github.com/NeusaM21
 
+---
+
 
