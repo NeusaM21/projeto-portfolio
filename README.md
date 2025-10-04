@@ -20,7 +20,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/NeusaM21/whatsapp-sheets-email-bot">
-        <img src="assets/capa-whatsapp-sheets.png" width="250px"/><br/>
+        <img src="assets/banner-readme.png" width="250px"/><br/>
         <strong>WhatsApp Sheets Email Bot</strong>
       </a>
     </td>
@@ -59,8 +59,8 @@
 
 ## 🛠️ Tecnologias que utilizo
 
-- **Python**, **Flask**, **Pandas**, **LangChain**, **Streamlit**, **Gemini API**, **OpenAI API**
-- **Make**, **Zapier**, **Google Sheets**, **APIs REST**
+- **Python**, **Flask**, **Pandas**, **LangChain**, **Streamlit**, **Gemini API**, **OpenAI API**  
+- **Make**, **Zapier**, **Google Sheets**, **APIs REST**  
 - **No-code Tools**, **VS Code**, **GitHub**
 
 ---
