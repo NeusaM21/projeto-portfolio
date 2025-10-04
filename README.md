@@ -21,46 +21,48 @@
     <td align="center">
       <a href="https://github.com/NeusaM21/whatsapp-sheets-email-bot">
         <img src="assets/banner-readme.png" width="250px"/><br/>
-        <strong>WhatsApp Sheets Email Bot</strong><br/>
-        <sub>Webhook que salva leads no Google Sheets e dispara e-mails automáticos.</sub>
-      </a>
+        <strong>WhatsApp Sheets Email Bot</strong>
+      </a><br/>
+      <sub><p align="center">Webhook que salva leads no Google Sheets e dispara e-mails automáticos.</p></sub>
     </td>
     <td align="center">
       <a href="https://github.com/NeusaM21/email_bot">
         <img src="assets/capa-email-bot.png" width="250px"/><br/>
-        <strong>Email Bot</strong><br/>
-        <sub>Envio automatizado de e-mails personalizados via Excel + Python.</sub>
-      </a>
+        <strong>Email Bot</strong>
+      </a><br/>
+      <sub><p align="center">Envio automatizado de e-mails personalizados via Excel + Python.</p></sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/NeusaM21/pdf-insight-bot">
         <img src="assets/capa-pdf-insight-bot.png" width="250px"/><br/>
-        <strong>PDF Insight Bot</strong><br/>
-        <sub>Extração de insights e respostas automáticas de documentos PDF com IA.</sub>
-      </a>
+        <strong>PDF Insight Bot</strong>
+      </a><br/>
+      <sub><p align="center">Extração de insights e respostas automáticas de documentos PDF com IA.</p></sub>
     </td>
     <td align="center">
       <a href="https://github.com/NeusaM21/smart-integration-leads">
         <img src="assets/capa-smart-integration.png" width="250px"/><br/>
-        <strong>Smart Integration Leads</strong><br/>
-        <sub>Integração Make + GPT + CRM para captação e nutrição de leads.</sub>
-      </a>
+        <strong>Smart Integration Leads</strong>
+      </a><br/>
+      <sub><p align="center">Integração Make + GPT + CRM para captação e nutrição de leads.</p></sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/NeusaM21/ecommerce-marketing-automation-project">
         <img src="assets/capa-ecommerce.png" width="250px"/><br/>
-        <strong>E-commerce Automation</strong><br/>
-        <sub>Automação de marketing e vendas para e-commerce com IA.</sub>
-      </a>
+        <strong>E-commerce Automation</strong>
+      </a><br/>
+      <sub><p align="center">Automação de marketing e vendas para e-commerce com IA.</p></sub>
     </td>
   </tr>
 </table>
 
 ---
+
+<br/>
 
 <h2 align="center">🏆 Featured Projects (EN)</h2>
 
@@ -69,41 +71,41 @@
     <td align="center">
       <a href="https://github.com/NeusaM21/whatsapp-sheets-email-bot">
         <img src="assets/banner-readme.png" width="250px"/><br/>
-        <strong>WhatsApp Sheets Email Bot</strong><br/>
-        <sub>Webhook that saves leads in Google Sheets and sends automatic emails.</sub>
-      </a>
+        <strong>WhatsApp Sheets Email Bot</strong>
+      </a><br/>
+      <sub><p align="center">Webhook that saves leads in Google Sheets and sends automatic emails.</p></sub>
     </td>
     <td align="center">
       <a href="https://github.com/NeusaM21/email_bot">
         <img src="assets/capa-email-bot.png" width="250px"/><br/>
-        <strong>Email Bot</strong><br/>
-        <sub>Automated email sender with personalized messages using Python + Excel.</sub>
-      </a>
+        <strong>Email Bot</strong>
+      </a><br/>
+      <sub><p align="center">Automated email sender with personalized messages using Python + Excel.</p></sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/NeusaM21/pdf-insight-bot">
         <img src="assets/capa-pdf-insight-bot.png" width="250px"/><br/>
-        <strong>PDF Insight Bot</strong><br/>
-        <sub>AI-powered PDF analyzer to extract insights and answer questions.</sub>
-      </a>
+        <strong>PDF Insight Bot</strong>
+      </a><br/>
+      <sub><p align="center">AI-powered PDF analyzer to extract insights and answer questions.</p></sub>
     </td>
     <td align="center">
       <a href="https://github.com/NeusaM21/smart-integration-leads">
         <img src="assets/capa-smart-integration.png" width="250px"/><br/>
-        <strong>Smart Integration Leads</strong><br/>
-        <sub>Lead generation and nurturing with Make + GPT + CRM integration.</sub>
-      </a>
+        <strong>Smart Integration Leads</strong>
+      </a><br/>
+      <sub><p align="center">Lead generation and nurturing with Make + GPT + CRM integration.</p></sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/NeusaM21/ecommerce-marketing-automation-project">
         <img src="assets/capa-ecommerce.png" width="250px"/><br/>
-        <strong>E-commerce Automation</strong><br/>
-        <sub>AI-driven automation for lead capture and sales in e-commerce.</sub>
-      </a>
+        <strong>E-commerce Automation</strong>
+      </a><br/>
+      <sub><p align="center">AI-driven automation for lead capture and sales in e-commerce.</p></sub>
     </td>
   </tr>
 </table>
@@ -123,7 +125,9 @@
 <h2 align="center">📬 Contato</h2>
 
 <p align="center">
-  📧 <a href="mailto:contact.neusam21@gmail.com"><strong>contact.neusam21@gmail.com</strong></a><br/>
+  <a href="mailto:contact.neusam21@gmail.com">
+    <img src="https://img.shields.io/badge/📬%20Email-contact.neusam21%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a><br/><br/>
   🤝 <em>Available for freelancing & international collaborations</em>
 </p>
 
