@@ -19,9 +19,9 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/NeusaM21/ecommerce-marketing-automation-project">
-        <img src="assets/capa-ecommerce.png" width="250px"/><br/>
-        <strong>E-commerce Automation</strong>
+      <a href="https://github.com/NeusaM21/whatsapp-sheets-email-bot">
+        <img src="assets/capa-whatsapp-sheets.png" width="250px"/><br/>
+        <strong>WhatsApp Sheets Email Bot</strong>
       </a>
     </td>
     <td align="center">
@@ -45,11 +45,20 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/NeusaM21/ecommerce-marketing-automation-project">
+        <img src="assets/capa-ecommerce.png" width="250px"/><br/>
+        <strong>E-commerce Automation</strong>
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 🛠️ Tecnologias que utilizo:
+## 🛠️ Tecnologias que utilizo
+
 - **Python**, **Flask**, **Pandas**, **LangChain**, **Streamlit**, **Gemini API**, **OpenAI API**
 - **Make**, **Zapier**, **Google Sheets**, **APIs REST**
 - **No-code Tools**, **VS Code**, **GitHub**
@@ -57,10 +66,8 @@
 ---
 
 ## 📬 Contato 
-📧 E-mail profissional: [Enviar e-mail](mailto:contact.neusam21@gmail.com)  
-🤝 Disponível para freelas e colaborações!
+
+📧 **E-mail profissional**: [contact.neusam21@gmail.com](mailto:contact.neusam21@gmail.com)  
+🤝 **Disponível para freelas e colaborações internacionais!**
 
 ---
-
-> 💡 *"Automação não é sobre substituir pessoas. É sobre libertar tempo para o que realmente importa."*  
-> — NeusaM21
