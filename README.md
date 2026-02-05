@@ -23,24 +23,22 @@
         <img src="assets/capa-autonomous-business.png" width="250px"/><br/>
         <strong>Autonomous Business Decision Agent</strong>
       </a>
-      <sub>
-        <p align="center">
-          Deterministic and explainable business decision engine with audit logs, scoring logic,
-          and controlled execution designed for enterprise-grade systems.
-        </p>
-      </sub>
+      <br/>
+      <p align="center">
+        Deterministic and explainable business decision engine with audit logs, scoring logic,
+        and controlled execution designed for enterprise-grade systems.
+      </p>
     </td>
     <td align="center">
       <a href="https://github.com/NeusaM21/autonomous-risk-decision-agent">
         <img src="assets/capa-autonomous-risk.png" width="250px"/><br/>
         <strong>Autonomous Risk Decision Agent</strong>
       </a>
-      <sub>
-        <p align="center">
-          Autonomous risk classification engine featuring explainability, human-in-the-loop control,
-          and production-ready decision pipelines for regulated environments.
-        </p>
-      </sub>
+      <br/>
+      <p align="center">
+        Autonomous risk classification engine featuring explainability, human-in-the-loop control,
+        and production-ready decision pipelines for regulated environments.
+      </p>
     </td>
   </tr>
 </table>
@@ -56,22 +54,20 @@
         <img src="assets/banner-readme.png" width="250px"/><br/>
         <strong>WhatsApp Sheets Email Bot</strong>
       </a>
-      <sub>
-        <p align="center">
-          Webhook que salva leads no Google Sheets e dispara e-mails automáticos.
-        </p>
-      </sub>
+      <br/>
+      <p align="center">
+        Webhook que salva leads no Google Sheets e dispara e-mails automáticos.
+      </p>
     </td>
     <td align="center">
       <a href="https://github.com/NeusaM21/email_bot">
         <img src="assets/capa-email-bot.png" width="250px"/><br/>
         <strong>Email Bot</strong>
       </a>
-      <sub>
-        <p align="center">
-          Envio automatizado de e-mails personalizados via Excel + Python.
-        </p>
-      </sub>
+      <br/>
+      <p align="center">
+        Envio automatizado de e-mails personalizados via Excel + Python.
+      </p>
     </td>
   </tr>
   <tr>
@@ -80,22 +76,20 @@
         <img src="assets/capa-pdf-insight-bot.png" width="250px"/><br/>
         <strong>PDF Insight Bot</strong>
       </a>
-      <sub>
-        <p align="center">
-          Extração de insights e respostas automáticas de documentos PDF com IA.
-        </p>
-      </sub>
+      <br/>
+      <p align="center">
+        Extração de insights e respostas automáticas de documentos PDF com IA.
+      </p>
     </td>
     <td align="center">
       <a href="https://github.com/NeusaM21/smart-integration-leads">
         <img src="assets/capa-smart-integration.png" width="250px"/><br/>
         <strong>Smart Integration Leads</strong>
       </a>
-      <sub>
-        <p align="center">
-          Integração Make + GPT + CRM para captação e nutrição de leads.
-        </p>
-      </sub>
+      <br/>
+      <p align="center">
+        Integração Make + GPT + CRM para captação e nutrição de leads.
+      </p>
     </td>
   </tr>
   <tr>
@@ -104,11 +98,10 @@
         <img src="assets/capa-ecommerce.png" width="250px"/><br/>
         <strong>E-commerce Automation</strong>
       </a>
-      <sub>
-        <p align="center">
-          Automação de marketing e vendas para e-commerce com IA.
-        </p>
-      </sub>
+      <br/>
+      <p align="center">
+        Automação de marketing e vendas para e-commerce com IA.
+      </p>
     </td>
   </tr>
 </table>
@@ -131,6 +124,7 @@
 <p align="center">
   <a href="mailto:contact.neusam21@gmail.com">
     <img src="https://img.shields.io/badge/📬%20Email-contact.neusam21%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a><br/><br/>
-  🤝 <em>Available for freelancing, enterprise projects, and international collaborations</em>
+  </a>
+  <br/><br/>
+  <em>Available for freelancing, enterprise projects, and international collaborations</em>
 </p>
